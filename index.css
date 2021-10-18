@@ -1,0 +1,42 @@
+
+
+
+
+#column-2{
+    border: 1px solid rgb(214,214,214);
+    
+    height: 550px;
+    
+ }
+ 
+ 
+ .container-2{
+    padding: 10px;
+    border:1px solid rgb(214,214,214) ;
+    height: 60px;
+ }
+ 
+.card-body{
+    font-weight: bold;
+    font-size: larger;
+}
+
+#timer-col-1{
+    border: 1px solid rgb(214,214,214);
+}
+#timer-col-2{
+    border:1px solid rgb(214,214,214) ;
+}
+#marking-col-1{
+    border: 1px solid rgb(214,214,214);
+}
+#marking-col-2{
+    border:1px solid rgb(214,214,214);
+}
+
+.border-draw{
+    border: skyblue solid 20px;
+}
+.col-2{
+    margin-left: auto;
+}
